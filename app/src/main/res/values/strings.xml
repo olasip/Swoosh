@@ -19,4 +19,13 @@
     <string name="coed">Co-Ed</string>
     <string name="buttonNext">NEXT</string>
     <string name="buttonGet_started">GET STARTED</string>
+    <string name="skillWallpaper">TODO</string>
+    <string name="text.i_am_a">I am a:</string>
+    <string name="button_finish">Button</string>
+    <string name="buttonballer">BALLER</string>
+    <string name="baller">BALLER</string>
+    <string name="button.baller">ToggleButton</string>
+    <string name="buttonbeginner">BEGINNER</string>
+    <string name="beginner">BEGINNER</string>
+    <string name="button.beginner">ToggleButton</string>
 </resources>
