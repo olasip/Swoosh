@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Swoosh</string>
     <string name="imageBackground">TODO</string>
     <string name="imageLogoSwoosh">TODO</string>
@@ -6,4 +6,16 @@
     <string name="text.go_all_in">GO ALL IN</string>
     <string name="text.on_going_all_out">ON GOING ALL OUT</string>
     <string name="text.find_a_team_in_your_city_and_dominate_the_league">Find a team in your city, and dominate the league.</string>
+    <string name="leagueActivityWallpaper">TODO</string>
+    <string name="textTopDesiredLeague">Desired League:</string>
+    <string name="button_Men">Mens</string>
+    <string name="buttonWomens">ToggleButton</string>
+    <string name="mens">Mens</string>
+    <string name="buttonmens" tools:ignore="DuplicateDefinition">Mens</string>
+    <string name="womens">Womens</string>
+    <string name="buttonwomens">Womens</string>
+    <string name="buttonCoed">Co-Ed</string>
+    <string name="co_ed">Co-ed</string>
+    <string name="coed">Co-Ed</string>
+    <string name="buttonNext">NEXT</string>
 </resources>
