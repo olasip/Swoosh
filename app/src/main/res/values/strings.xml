@@ -28,4 +28,6 @@
     <string name="buttonbeginner">BEGINNER</string>
     <string name="beginner">BEGINNER</string>
     <string name="button.beginner">ToggleButton</string>
+    <string name="finishWallpaper">TODO</string>
+    <string name="searchText">TEXT</string>
 </resources>
